@@ -17,3 +17,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN }}
+          user: lourq
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Kiev
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
