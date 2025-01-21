@@ -25,3 +25,4 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: .user.login
+          
