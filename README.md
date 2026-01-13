@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lourq&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://count.getloli.com/@lourq-github?theme=moebooru" alt="Profile views" />
 </p>
