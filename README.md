@@ -1,4 +1,3 @@
-<h1 align="center">Daniel</h1>
 <p align="center">Full Stack Developer</p>
 
 ---
