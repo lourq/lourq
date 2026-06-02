@@ -6,7 +6,7 @@
 
 ```
 Frontend:  TypeScript · React · Next.js · Tailwind
-Backend:   Node.js · Express · NestJS · PostgreSQL · MongoDB
+Backend:   Node.js · Express · Fastify · PostgreSQL · MongoDB
 Tools:     Git · Docker · Linux
 ```
 
